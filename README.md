@@ -4,13 +4,11 @@ Code for [Second Annual Data Science Bowl](). 16th place.
 
 # Sumamry
 
-A Hybrid Deep CNN/MLP.
+A Hybrid Deep Neural Network using CNN and MLP.
 
-It is used only 3 sax slices to predict the actual volume, is not used segmentation techniques, is not needed hand-labelings.
+It is used only 3 SAX slices to predict the actual volume, is not used segmentation techniques, is not needed hand-labelings.
 
 ![neural network](./figure.png)
-
-Detail: [simple locatlization](TODO), [neural network definition](TODO), [cumulative distribution function](TODO), [model ensemble and bagging](TODO).
 
 ## Developer Environment
 
